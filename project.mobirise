@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "callback.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -557,7 +557,7 @@
         }
       ]
     },
-    "page1.html": {
+    "callback.html": {
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "callback",
